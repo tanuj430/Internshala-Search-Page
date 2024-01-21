@@ -1,16 +1,10 @@
 # internshala_search_page
 
-A new Flutter project.
+Internshala serach page clone made as a assingment given by internshala.
 
-## Getting Started
+##App Preview
+![IS_serach_page](https://github.com/tanuj430/Internshala-Search-Page/assets/71175428/0783bb7a-14ca-4bcc-96e8-76ba694a6c95)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📥 Download and install FilmFusion app:
+Google Drive Link:
+https://drive.google.com/file/d/1bQttT17MMifaRcs14IkneMjNMEBLwR4u/view?usp=sharing
